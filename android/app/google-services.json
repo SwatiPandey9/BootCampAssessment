@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12603288893",
+    "project_id": "realmmongodb",
+    "storage_bucket": "realmmongodb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12603288893:android:c3db8aa487db3df81d2954",
+        "android_client_info": {
+          "package_name": "com.realmmongodb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12603288893-3hp0o747gnliv9eqb4eeq019lg7i2984.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5GTn1V48QATTHsZFdDf5LtNOdp6mBDWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12603288893-3hp0o747gnliv9eqb4eeq019lg7i2984.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
